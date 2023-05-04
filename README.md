@@ -2,13 +2,13 @@
 
 ## 🌱 I'm a web programmer!
 
-- 📍 I'm currently based in [Your City, Country]
-- 💼 I'm working at [Your Company/Organization]
-- 📚 I'm currently learning [A new skill or technology you're learning]
-- 🤔 I'm looking for help with [Any specific topic or project you need help with]
-- 🥅 2023 Goals: [Your goals for this year]
-- 📫 How to reach me: [Your email or social media handle]
-- ⚡ Fun fact: [An interesting fact about you]
+- 📍 I'm currently based in Mashhad/Iran
+- 💼 I'm working at home :)
+- 📚 I'm currently learning Python,Vue,Laravel
+- 🤔 I'm looking for help with Fullstack position
+- 🥅 2023 Goals: Improve my skills
+- 📫 How to reach me: avatrezaei88@gmail.com
+- ⚡ Fun fact: Art,Movie
 
 ## 🛠️ Technologies & Tools
 
