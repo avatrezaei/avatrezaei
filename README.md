@@ -24,14 +24,14 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=avatrezaei&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avatrezaei&layout=compact)
 
 <!-- Replace 'yourusername' with your actual GitHub username -->
 
 ## 📞 Get in touch
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Your personal website](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/avatrezaei/)
+- [Twitter](https://twitter.com/avatrezaei)
+- [Your personal website](https://www.avatrezaei.ir)
